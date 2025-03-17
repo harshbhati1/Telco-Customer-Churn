@@ -55,7 +55,6 @@ To run this project, you'll need the following Python libraries:
    jupyter notebook TelcoCustomerChurn.ipynb
 ## 📊 Dataset
 Download the [Telco Customer Churn dataset](https://www.kaggle.com/blastchar/telco-customer-churn) from Kaggle.  
-Place the dataset file (e.g., `Telco_customer_churn.xlsx`) in the project folder.
 
 ## 📝 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
