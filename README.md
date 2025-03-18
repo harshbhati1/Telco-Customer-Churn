@@ -54,7 +54,7 @@ To run this project, you'll need the following Python libraries:
    ```bash
    jupyter notebook TelcoCustomerChurn.ipynb
 ## 📊 Dataset
-Download the [Telco Customer Churn dataset](https://www.kaggle.com/blastchar/telco-customer-churn) from Kaggle.  
+Download the [Telco Customer Churn dataset](https://www.kaggle.com/datasets/yeanzc/telco-customer-churn-ibm-dataset) from Kaggle.  
 
 ## 🙌 Acknowledgments
-Special thanks to [Kaggle](https://www.kaggle.com) for providing the [Telco Customer Churn dataset](https://www.kaggle.com/blastchar/telco-customer-churn) and to all contributors whose efforts have made this project possible.
+Special thanks to [Kaggle](https://www.kaggle.com) for providing the [Telco Customer Churn dataset](https://www.kaggle.com/datasets/yeanzc/telco-customer-churn-ibm-dataset) and to all contributors whose efforts have made this project possible.
