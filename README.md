@@ -46,7 +46,7 @@ To run this project, you'll need the following Python libraries:
 ## 🏃‍♀️ How to Run
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/TelcoCustomerChurn.git
+   git clone https://github.com/harshbhati1/Telco-Customer-Churn
 2. **Navigate to the project folder:**
    ```bash
    cd TelcoCustomerChurn
