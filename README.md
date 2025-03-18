@@ -56,8 +56,5 @@ To run this project, you'll need the following Python libraries:
 ## 📊 Dataset
 Download the [Telco Customer Churn dataset](https://www.kaggle.com/blastchar/telco-customer-churn) from Kaggle.  
 
-## 📝 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙌 Acknowledgments
 Special thanks to [Kaggle](https://www.kaggle.com) for providing the [Telco Customer Churn dataset](https://www.kaggle.com/blastchar/telco-customer-churn) and to all contributors whose efforts have made this project possible.
